@@ -138,12 +138,11 @@ graph LR
 
 | Nombre | Rol |
 |--------|-----|
-| Walther Sebastian Verdugo Cabrera | Desarrollador |
-| Sebastian Alejandro Machado Pazmiño | Desarrollador |
+| Walther Sebastian Verdugo Cabrera | Desarrollador Principal |
 ---
 
 ## 📞 Información de Contacto
 
-- **Email**: sebastianvccv@gmail.com, salejomac1012@gmail.com
-- **GitHub**: [@verdugong](https://github.com/verdugong), [@SMachadoP](https://github.com/SMachadoP)
+- **Email**: sebastianvccv@gmail.com
+- **GitHub**: [@verdugong](https://github.com/verdugong)
 ---
